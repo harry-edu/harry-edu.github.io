@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.drkhalsa.counselling",
+        "sha256_cert_fingerprints": ["CB:17:AA:DC:2B:7A:74:0C:BE:34:74:E2:A2:EF:01:2B:94:62:E3:FB:19:7F:BD:ED:B2:91:82:CA:AD:0C:74:1C"]
+      }
+    }]
