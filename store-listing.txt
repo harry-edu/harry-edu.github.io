@@ -1,0 +1,43 @@
+APP NAME (max 30 characters)
+Student Counselling Docket
+
+SHORT DESCRIPTION (max 80 characters)
+Career and stream choices after Class 10 and 12, with self-scoring career tests
+
+FULL DESCRIPTION (max 4,000 characters)
+Student Counselling Docket helps students in India, their parents and school counsellors choose subjects, courses and careers with the facts in hand. Developed by Dr. H. S. Khalsa.
+
+AFTER CLASS 10
+• Science with Maths, Science with Biology, Commerce and Humanities compared
+• Careers for each stream, with leading institutions, entrance exams and outlook
+• Diploma, ITI and skill routes directly after Class 10
+• Traditional and new-age careers, and how artificial intelligence affects each
+• Exam calendar, costs, scholarships, and myths and facts for parents
+
+AFTER CLASS 12
+• Courses and careers for PCM, PCB, Commerce and Humanities pass-outs
+• Courses open to every stream: law, design, management, media, hospitality and more
+• Cross-over and management careers: how a commerce student can work in health care, a humanities student in technology
+• College directory by field, the admission calendar and how to apply to foreign universities
+• Costs, scholarships, education loans and what to do if plans change
+
+TWO CAREER INTEREST AND APTITUDE TESTS
+• One test for Class 10 (best-fit stream) and one for Class 12 (best-fit career fields)
+• Three parts: interests, reasoning (timed) and work style, plus career values
+• Scores itself and links each result to the matching chapter of the docket
+• The Class 12 test leaves out courses the student's Class 12 subjects do not allow
+• Counsellors can type in answers from a paper booklet and save or share the report
+
+FOR COUNSELLORS
+• Fill-in counsellor's records, application trackers and action plans
+• Search both dockets at once
+
+Works offline. Everything you type stays on your phone: no sign-in, no ads, no data collected.
+
+The tests are counselling aids, not standardised psychometric instruments. Exam dates, fees and rules change every year; confirm details on the official websites before applying.
+
+CATEGORY
+Education
+
+CONTACT EMAIL
+[hsharry.edu@gmail.com]

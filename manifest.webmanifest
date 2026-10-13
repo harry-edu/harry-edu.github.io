@@ -1,0 +1,19 @@
+{
+  "name": "Student Counselling Docket",
+  "short_name": "Counselling Docket",
+  "description": "Subject, course and career choices after Class 10 and Class 12, with self-scoring career interest and aptitude tests. Developed by Dr. H. S. Khalsa.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EEF1F6",
+  "theme_color": "#B3195A",
+  "lang": "en-IN",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
